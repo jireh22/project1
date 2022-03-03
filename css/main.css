@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0;}
+a{color: #333; text-decoration: none;}
+ul{list-style: none;}
+
+.wrap{width: 90%; margin: 0 auto;}
+#headerArea{background: green;}
+#contnet{background: pink;height: 150px;}
+#footerArea{background: orange; height: 200px;}
